@@ -163,7 +163,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8589143665434785, guid: fa9c5921f7a67fe49822424e8604a768, type: 3}
       propertyPath: m_Name
-      value: Gun Pickup (1)
+      value: Gun Pickup (1Shotgun)
       objectReference: {fileID: 0}
     - target: {fileID: 8589143665434785, guid: fa9c5921f7a67fe49822424e8604a768, type: 3}
       propertyPath: m_IsActive
